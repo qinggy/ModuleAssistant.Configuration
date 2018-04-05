@@ -1,0 +1,8 @@
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\bin\Debug\ConfigurationTest.exe.config
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\bin\Debug\ConfigurationTest.exe
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\bin\Debug\ConfigurationTest.pdb
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\bin\Debug\ModuleAssistant.Configuration.dll
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\bin\Debug\ModuleAssistant.Configuration.pdb
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\obj\Debug\ConfigurationTest.csprojResolveAssemblyReference.cache
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\obj\Debug\ConfigurationTest.exe
+D:\CodeSource\ModuleAssistant.Configuration\ConfigurationTest\obj\Debug\ConfigurationTest.pdb

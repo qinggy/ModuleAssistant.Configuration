@@ -1,0 +1,5 @@
+D:\CodeSource\ModuleAssistant.Configuration\ModuleAssistant.Configuration\bin\Debug\ModuleAssistant.Configuration.dll
+D:\CodeSource\ModuleAssistant.Configuration\ModuleAssistant.Configuration\bin\Debug\ModuleAssistant.Configuration.pdb
+D:\CodeSource\ModuleAssistant.Configuration\ModuleAssistant.Configuration\obj\Debug\ModuleAssistant.Configuration.csprojResolveAssemblyReference.cache
+D:\CodeSource\ModuleAssistant.Configuration\ModuleAssistant.Configuration\obj\Debug\ModuleAssistant.Configuration.dll
+D:\CodeSource\ModuleAssistant.Configuration\ModuleAssistant.Configuration\obj\Debug\ModuleAssistant.Configuration.pdb
